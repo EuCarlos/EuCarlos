@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello, World! Sou o Carlos.👋
+📚 Sempre aprendendo.
 
-<!--
-**EuCarlos/EuCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### LINGUAGENS E FERRAMENTAS
+<p align="left">
+   <a href="#">
+    <img src="https://plugins.jetbrains.com/files/631/97630/icon/pluginIcon.svg">
+  </a> 
+  <img src="https://ludu-assets.s3.amazonaws.com/course-icons/26/urA5bRhIewsQ2LgxuCu2" width="40">
+  </a>
+    <img src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png" alt="example badge" width="40">
+  </a> 
+ <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" width="33">
+  </a> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/100px-Unofficial_JavaScript_logo_2.svg.png" width="40">
+  </a> 
+ <img src="https://plugins.jetbrains.com/files/6098/92434/icon/pluginIcon.svg">
+  </a>
+  <img src="https://github.com/node-red.png?size=40">
+  </a>
+</a>
+  <img src="https://img.stackshare.io/service/3195/thumb_retina_9d19310763171b0d958d23a18b3d7e1c.png" width="45">
+  </a>
+</p>
