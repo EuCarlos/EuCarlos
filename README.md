@@ -23,6 +23,4 @@
   </a>
 </p>
 
-[![Carlos Alves's github stats](https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&show_icons=true&theme=gruvbox" alt="EuCarlos"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/> </p>
