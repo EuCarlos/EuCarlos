@@ -24,3 +24,6 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&show_icons=true&theme=gruvbox" alt="EuCarlos"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/> </p>
+
+#### VISITAS AO PERFIL
+<img src="https://visitor-badge.glitch.me/badge?page_id=eucarlos.eucarlos">
