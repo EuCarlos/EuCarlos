@@ -1,5 +1,9 @@
-## Hello, World! Sou o Carlos.👋
-📚 Sempre aprendendo.
+## Hello, World! Sou o Carlos.<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+- 📚 Sempre aprendendo.
+- 👨🏻‍💻 Meu Portfólio: https://carlosalves.vercel.app/ 
+- 💛 Perfil no [LinkedIn](https://www.linkedin.com/in/josecarlos98)
+- 🧩 Perfil no [HackerRank](https://www.hackerrank.com/carlosalves369m)
+- ♟ Perfil no [Rocketsear](https://app.rocketseat.com.br/me/carlos-alves-03388)
 
 #### LINGUAGENS E FERRAMENTAS
 <p align="left">
@@ -22,8 +26,14 @@
   <img src="https://img.stackshare.io/service/3195/thumb_retina_9d19310763171b0d958d23a18b3d7e1c.png" width="45">
   </a>
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&show_icons=true&theme=gruvbox" alt="EuCarlos"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/> </p>
+<details>
+   <summary> Github Stats </summary>
+   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&show_icons=true&theme=gruvbox" alt="EuCarlos"/></p>
+</details> 
+<details>
+   <summary> Linguagens mais usadas aqui no Github </summary>
+   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/> </p>
+</details>
 
 #### VISITAS AO PERFIL
 <img src="https://visitor-badge.glitch.me/badge?page_id=eucarlos.eucarlos">
