@@ -24,7 +24,10 @@ Posso ser encontrado no [LinkedIn](https://www.linkedin.com/in/josecarlos98), [D
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-7E78D2?style=flat-square&logo=insomnia&logoColor=white)
 ![NodeRED](https://img.shields.io/badge/-NodeRED-8b0002?style=flat-square&logo=nodered&logoColor=white)
-
+![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0065ff?style=flat-square&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-37352f?style=flat-square&logo=notion&logoColor=white)
+![Bowerjs](https://img.shields.io/badge/-Bower-ef5734?style=flat-square&logo=bower&logoColor=white)
 <details>
    <summary> Github Stats </summary>
    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&show_icons=true&theme=gruvbox" alt="EuCarlos"/></p>
