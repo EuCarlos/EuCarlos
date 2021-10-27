@@ -1,7 +1,7 @@
 ## Hi, There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 Hello world! me chamo Carlos, e sou desenvolvedor Full Stack com foco maior no Front-End e estudante de Gestão da Tecnologia da Informação na Fatec de Itaquá.
 
-Posso ser encontrado no [LinkedIn](https://www.linkedin.com/in/josecarlos98), [Dribbble](https://dribbble.com/eucarlos/about), [HackerRank](https://www.hackerrank.com/carlosalves369m), [Instagram](https://www.instagram.com/carlos.alves/) e no meu [Portfólio](https://carlosalves.vercel.app/).
+Posso ser encontrado no [LinkedIn](https://www.linkedin.com/in/josecarlos98), [Dribbble](https://dribbble.com/eucarlos), [HackerRank](https://www.hackerrank.com/carlosalves369m), [Instagram](https://www.instagram.com/carlos.alves/) e no meu [Portfólio](https://carlosalves.vercel.app/).
 
 #### LINGUAGENS E FERRAMENTAS
 ![Ruby](https://img.shields.io/badge/-Ruby-690500?style=flat-square&logo=ruby&logoColor=white)
@@ -29,12 +29,11 @@ Posso ser encontrado no [LinkedIn](https://www.linkedin.com/in/josecarlos98), [D
 ![Notion](https://img.shields.io/badge/-Notion-37352f?style=flat-square&logo=notion&logoColor=white)
 ![Bowerjs](https://img.shields.io/badge/-Bower-ef5734?style=flat-square&logo=bower&logoColor=white)
 <details>
-   <summary> Github Stats </summary>
-   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&show_icons=true&theme=gruvbox" alt="EuCarlos"/></p>
-</details> 
-<details>
-   <summary> Linguagens mais usadas aqui no Github </summary>
-   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/> </p>
+   <summary> Github Stats && Most used Languages</summary>
+   <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&bg_color=30,ff4b1f,ff9068&title_color=fff&text_color=fff" alt="EuCarlos"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact&count_private=true&bg_color=0d1117&title_color=fff&text_color=fff" alt="EuCarlos"/>
+   </p>
 </details>
 
 #### VISITAS AO PERFIL
