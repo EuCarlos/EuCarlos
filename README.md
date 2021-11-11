@@ -30,11 +30,11 @@ Posso ser encontrado no [LinkedIn](https://www.linkedin.com/in/josecarlos98), [D
 ![Bowerjs](https://img.shields.io/badge/-Bower-ef5734?style=flat-square&logo=bower&logoColor=white)
 <details>
    <summary> Github Stats && Most used Languages</summary>
-   <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&bg_color=30,ff4b1f,ff9068&title_color=fff&text_color=fff" alt="EuCarlos"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact&count_private=true&bg_color=0d1117&title_color=fff&text_color=fff" alt="EuCarlos"/>
+   <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&bg_color=30,ff4b1f,ff9068&title_color=fff&text_color=fff" alt="EuCarlos" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact&count_private=true&bg_color=0d1117&title_color=fff&text_color=fff" alt="EuCarlos" height="150"/>
    </p>
 </details>
 
 #### VISITAS AO PERFIL
-<img src="https://visitor-badge.glitch.me/badge?page_id=eucarlos.eucarlos">
+<img src="https://visitor-badge.glitch.me/badge?page_id=eucarlos.eucarlos&right_color=red&left_text=Visitantes">
