@@ -3,6 +3,10 @@ Hello world! me chamo Carlos, e sou desenvolvedor Full Stack com foco maior no F
 
 Posso ser encontrado no [LinkedIn](https://www.linkedin.com/in/josecarlos98), [Dribbble](https://dribbble.com/eucarlos), [HackerRank](https://www.hackerrank.com/carlosalves369m), [Instagram](https://www.instagram.com/carlos.alves/) e no meu [Portfólio](https://carlosalves.vercel.app/).
 
+site: [carlosalves.now.sh](https://carlosalves.now.sh/)
+
+alternativo: [eucarlos.github.io](https://eucarlos.github.io/)
+
 #### LINGUAGENS E FERRAMENTAS
 ![Ruby](https://img.shields.io/badge/-Ruby-690500?style=flat-square&logo=ruby&logoColor=white)
 ![On Rails](https://img.shields.io/badge/-OnRails-8F0700?style=flat-square&logo=rubyonrails&logoColor=white)
