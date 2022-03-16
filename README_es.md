@@ -8,9 +8,9 @@ _Hello world!_ Mi nombre es Carlos, soy un desarrollador Full Stack enfocado en 
 ### 👇🏻  Puedes encontrarme aquí:
 <a href="https://www.linkedin.com/in/josecarlos98" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-123456?style=flat-square&logo=linkedin&logoColor=white)</a>
 <a href="https://dev.to/eucarlos" target="_blank">![Linkedin](https://img.shields.io/badge/-Dev.to-123456?style=flat-square&logo=dev.to&logoColor=white)</a>
-<a href="https://dribbble.com/eucarlos" target="_blank">![Dribbble](https://img.shields.io/badge/-Dribbble-123456?style=flat-square&logo=ruby&logoColor=white)</a>
-<a href="https://www.hackerrank.com/carlosalves369m" target="_blank">![HackerRank](https://img.shields.io/badge/-HackerRank-123456?style=flat-square&logo=ruby&logoColor=white)</a>
-<a href="https://www.instagram.com/carlos.alves/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-123456?style=flat-square&logo=ruby&logoColor=white)</a>
+<a href="https://dribbble.com/eucarlos" target="_blank">![Dribbble](https://img.shields.io/badge/-Dribbble-123456?style=flat-square&logo=dribbble&logoColor=white)</a>
+<a href="https://www.hackerrank.com/carlosalves369m" target="_blank">![HackerRank](https://img.shields.io/badge/-HackerRank-123456?style=flat-square&logo=hackerrank&logoColor=white)</a>
+<a href="https://www.instagram.com/carlos.alves/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-123456?style=flat-square&logo=instagram&logoColor=white)</a>
 <a href="https://carlosalves.vercel.app/" target="_blank">![portafolio](https://img.shields.io/badge/-Portafolio-123456?style=flat-square&logo=vite&logoColor=white)</a>
 
 sitio oficial: [carlosalves.now.sh](https://carlosalves.now.sh/)
@@ -63,3 +63,7 @@ sitio oficial: [carlosalves.now.sh](https://carlosalves.now.sh/)
 
 ### 📕 Blog - Publicaciones recientes
 - [PT-BR] [Cómo actualizar Node.js a la última versión en Ubuntu 🐧](https://dev.to/eucarlos/como-atualizar-o-nodejs-para-a-ultima-versao-no-ubuntu-35f3)
+
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=eucarlos&theme=dracula&column=6&row=1&margin-w=10" alt="Troféus do Github" />
+</p>
