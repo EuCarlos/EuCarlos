@@ -7,6 +7,7 @@ _Hello world!_ My name is Carlos, and I'm a Full Stack developer focused on Fron
 
 ### 👇🏻  You can find me here:
 <a href="https://www.linkedin.com/in/josecarlos98" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-123456?style=flat-square&logo=linkedin&logoColor=white)</a>
+<a href="https://dev.to/eucarlos" target="_blank">![Linkedin](https://img.shields.io/badge/-Dev.to-123456?style=flat-square&logo=dev.to&logoColor=white)</a>
 <a href="https://dribbble.com/eucarlos" target="_blank">![Dribbble](https://img.shields.io/badge/-Dribbble-123456?style=flat-square&logo=ruby&logoColor=white)</a>
 <a href="https://www.hackerrank.com/carlosalves369m" target="_blank">![HackerRank](https://img.shields.io/badge/-HackerRank-123456?style=flat-square&logo=ruby&logoColor=white)</a>
 <a href="https://www.instagram.com/carlos.alves/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-123456?style=flat-square&logo=ruby&logoColor=white)</a>
@@ -32,6 +33,7 @@ official site: [carlosalves.now.sh](https://carlosalves.now.sh/)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-74ad4d?style=flat-square&logo=mongodb&logoColor=white)
 ![NodeRED](https://img.shields.io/badge/-NodeRED-8b0002?style=flat-square&logo=nodered&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-181717?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
 ### 🦾 Tools I use:
@@ -58,3 +60,6 @@ official site: [carlosalves.now.sh](https://carlosalves.now.sh/)
 <img src="https://visitor-badge.glitch.me/badge?page_id=eucarlos.eucarlos&right_color=red&left_text=Visitantors" alt="Visit counter unavailable">
 
 <img src="https://via.placeholder.com/1000x3/123456/123456" width="100%">
+
+### 📕 Blog - Recent posts
+- [PT-BR] [How to upgrade Node.js to the latest version on Ubuntu 🐧](https://dev.to/eucarlos/como-atualizar-o-nodejs-para-a-ultima-versao-no-ubuntu-35f3)
