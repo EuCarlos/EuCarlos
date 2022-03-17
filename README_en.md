@@ -2,7 +2,7 @@
 _Hello world!_ My name is Carlos, and I'm a Full Stack developer focused on Front-End and a student of Information Technology Management at Fatec in Itaquá, Brazil.
 
 <p align="center">
-   <a href="README.md">Português</a> | <a href="README_en.md">English</a> | <a href="README_es.md">Español</a>
+   <a href="README.md">Português</a> | <a href="README_en.md"><u><b>English</b></u></a> | <a href="README_es.md">Español</a>
 </p>
 
 ### 👇🏻  You can find me here:

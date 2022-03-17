@@ -2,7 +2,7 @@
 _Hello world!_ me chamo Carlos, e sou desenvolvedor Full Stack com foco maior no Front-End e estudante de Gestão da Tecnologia da Informação na Fatec de Itaquá.
 
 <p align="center">
-   <a href="README.md">Português</a> | <a href="README_en.md">English</a> | <a href="README_es.md">Español</a>
+   <a href="README.md"><u><b>Português</b></u></a> | <a href="README_en.md">English</a> | <a href="README_es.md">Español</a>
 </p>
 
 ### 👇🏻  Pode me encontrar aqui: 
@@ -51,8 +51,8 @@ site oficial: [carlosalves.now.sh](https://carlosalves.now.sh/)
 <details>
    <summary>📊  Estatísticas do Github && Linguagens mais usados</summary>
    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&bg_color=30,ff4b1f,ff9068&title_color=fff&text_color=fff" alt="EuCarlos" height="150" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact&count_private=true&bg_color=0d1117&title_color=fff&text_color=fff" alt="EuCarlos" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&bg_color=30,ff4b1f,ff9068&title_color=fff&text_color=fff&locale=pt-BR" alt="EuCarlos" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact&count_private=true&bg_color=0d1117&title_color=fff&text_color=fff&locale=pt-BR" alt="EuCarlos" height="150"/>
    </p>
 </details>
 
