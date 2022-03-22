@@ -62,6 +62,7 @@ site oficial: [carlosalves.now.sh](https://carlosalves.now.sh/)
 <img src="https://via.placeholder.com/1000x3/123456/123456" width="100%">
 
 ### 📕 Blog - Postagens recentes
+- [Neutralinojs - Alternativa para o Electron](https://dev.to/eucarlos/neutralinojs-alternativa-para-o-electron-41g4)
 - [Como atualizar o Node.js para a ultima versão no Ubuntu 🐧](https://dev.to/eucarlos/como-atualizar-o-nodejs-para-a-ultima-versao-no-ubuntu-35f3)
 
 <p align="center">
