@@ -51,8 +51,8 @@ official site: [carlosalves.now.sh](https://carlosalves.now.sh/)
 <details>
    <summary>📊  Github Stats && Most used Languages</summary>
    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&theme=dracula" alt="EuCarlos" height="150" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&layout=compact&count_private=true&theme=dracula" alt="EuCarlos" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&theme=dracula&show_icons=true" alt="EuCarlos" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&hide=css,html,javascript,scss,handlebars&langs_count=6&layout=compact&count_private=true&theme=dracula" alt="EuCarlos" height="150"/>
    </p>
 </details>
 
