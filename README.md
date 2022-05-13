@@ -49,7 +49,8 @@ site oficial: [carlosalves.now.sh](https://carlosalves.now.sh/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-ef5734?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 
-<img src="https://via.placeholder.com/1000x3/123456/123456" width="100%">
+_______
+
 
 ### 📕 Blog - Postagens recentes
 - [Neutralinojs - Alternativa para o Electron](https://dev.to/eucarlos/neutralinojs-alternativa-para-o-electron-41g4)

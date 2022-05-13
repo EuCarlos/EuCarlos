@@ -48,7 +48,9 @@ sitio oficial: [carlosalves.now.sh](https://carlosalves.now.sh/)
 [![Docker](https://img.shields.io/badge/-Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-ef5734?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
-<img src="https://via.placeholder.com/1000x3/123456/123456" width="100%">
+
+___
+
 
 ### 📕 Blog - Publicaciones recientes
 - [PT-BR] [Neutralinojs - Alternativa al Electron](https://dev.to/eucarlos/neutralinojs-alternativa-para-o-electron-41g4)
