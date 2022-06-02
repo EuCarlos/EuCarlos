@@ -1,4 +1,4 @@
-## Hi, There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="hi">
 _Hello world!_ me chamo Carlos, e sou desenvolvedor Full Stack com foco maior no Front-End e estudante de Gestão da Tecnologia da Informação na Fatec de Itaquá.
 
 <p align="center">
