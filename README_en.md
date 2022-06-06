@@ -53,6 +53,8 @@ ___
 
 
 ### 📕 Blog - Recent posts
+- [PT-BR] [Fix in Docker: Got permission denied issue 🐳](https://dev.to/eucarlos/corrigir-no-docker-got-permission-denied-issue-5ba)
+- [PT-BR] [status 22003 in database](https://dev.to/eucarlos/status-22003-no-banco-de-dados-59a2)
 - [PT-BR] [Neutralinojs - Alternative to Electron](https://dev.to/eucarlos/neutralinojs-alternativa-para-o-electron-41g4)
 - [PT-BR] [How to upgrade Node.js to the latest version on Ubuntu 🐧](https://dev.to/eucarlos/como-atualizar-o-nodejs-para-a-ultima-versao-no-ubuntu-35f3)
 
