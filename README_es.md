@@ -1,17 +1,18 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="hi"> Hi there! 
-_Hello world!_ Mi nombre es Carlos, soy un desarrollador Full Stack enfocado en Front-End y estudiante de Gestión de Tecnologías de la Información en Fatec en Itaquá, Brasil.
+_Hello world!_ Mi nombre es Carlos, soy un desarrollador Full Stack enfocado en Front-End y graduado en Gestión de TI de la Información en Fatec en Itaquá, Brasil.
 
 <p align="center">
    <a href="README.md">Português</a> | <a href="README_en.md">English</a> | <a href="README_es.md"><u><b>Español</b></u></a>
 </p>
 
 ### 👇🏻  Puedes encontrarme aquí:
-<a href="https://www.linkedin.com/in/josecarlos98" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-123456?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://dev.to/eucarlos" target="_blank">![Linkedin](https://img.shields.io/badge/-Dev.to-123456?style=for-the-badge&logo=dev.to&logoColor=white)</a>
-<a href="https://dribbble.com/eucarlos" target="_blank">![Dribbble](https://img.shields.io/badge/-Dribbble-123456?style=for-the-badge&logo=dribbble&logoColor=white)</a>
-<a href="https://www.hackerrank.com/carlosalves369m" target="_blank">![HackerRank](https://img.shields.io/badge/-HackerRank-123456?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
-<a href="https://www.instagram.com/carlos.alves/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-123456?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://carlosalves.vercel.app/" target="_blank">![portafolio](https://img.shields.io/badge/-Portafolio-123456?style=for-the-badge&logo=vite&logoColor=white)</a>
+<a href="https://carlosalves.vercel.app/" target="_blank">![portafolio](https://img.shields.io/badge/-Portafolio-ee6c4d?style=for-the-badge&logo=vite&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/josecarlos98" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-588157?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://dev.to/eucarlos" target="_blank">![Linkedin](https://img.shields.io/badge/-Dev.to-588157?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+<a href="https://dribbble.com/eucarlos" target="_blank">![Dribbble](https://img.shields.io/badge/-Dribbble-588157?style=for-the-badge&logo=dribbble&logoColor=white)</a>
+<a href="https://www.hackerrank.com/carlosalves369m" target="_blank">![HackerRank](https://img.shields.io/badge/-HackerRank-588157?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
+<a href="https://www.instagram.com/carlos.alves/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-588157?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://speakerdeck.com/eucarlos" target="_blank">![Speaker Deck](https://img.shields.io/badge/-speaker%20deck-588157?style=for-the-badge&logo=speakerdeck&logoColor=white)</a>
 
 sitio oficial: [carlosalves.now.sh](https://carlosalves.now.sh/)
 
@@ -53,6 +54,7 @@ ___
 
 
 ### 📕 Blog - Publicaciones recientes
+- [PT-BR] [Grandes extensiones para VS Code y poco comentadas](https://dev.to/eucarlos/extensoes-otimas-para-vs-code-e-pouco-falado-f45)
 - [PT-BR] [Corrección en Docker: Got permission denied issue 🐳](https://dev.to/eucarlos/corrigir-no-docker-got-permission-denied-issue-5ba)
 - [PT-BR] [status 22003 en la base de datos](https://dev.to/eucarlos/status-22003-no-banco-de-dados-59a2)
 - [PT-BR] [Neutralinojs - Alternativa al Electron](https://dev.to/eucarlos/neutralinojs-alternativa-para-o-electron-41g4)
