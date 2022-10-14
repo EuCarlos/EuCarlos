@@ -7,7 +7,8 @@ _Hello world!_ me chamo Carlos, e sou desenvolvedor Full Stack com foco maior no
 
 ### 👇🏻  Pode me encontrar aqui: 
 <a href="https://carlosalves.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/-Portfólio-25a244?style=for-the-badge&logo=vite&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/josecarlos98" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-D62828?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/josecarlos98" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-25a244?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+</br>
 <a href="https://dev.to/eucarlos" target="_blank">![Linkedin](https://img.shields.io/badge/-Dev.to-D62828?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 <a href="https://dribbble.com/eucarlos" target="_blank">![Dribbble](https://img.shields.io/badge/-Dribbble-D62828?style=for-the-badge&logo=dribbble&logoColor=white)</a>
 <a href="https://www.hackerrank.com/carlosalves369m" target="_blank">![HackerRank](https://img.shields.io/badge/-HackerRank-D62828?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
@@ -20,19 +21,14 @@ site oficial: [carlosalves.now.sh](https://carlosalves.now.sh/)
 
 [![Ruby](https://img.shields.io/badge/-Ruby-690500?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/pt/)
 [![On Rails](https://img.shields.io/badge/-OnRails-8F0700?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-D5BE0B?style=for-the-badge&logo=javascript&logoColor=white)](https://devdocs.io/javascript/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![React](https://img.shields.io/badge/-React-62BEC1?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c3?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Adonis](https://img.shields.io/badge/-AdonisJS-7E78D2?style=for-the-badge&logo=adonisjs&logoColor=white)](https://adonisjs.com/)
 [![Python](https://img.shields.io/badge/-Python-E07F00?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003954?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
 [![Postgres](https://img.shields.io/badge/-Postgres-32648d?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-74ad4d?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![NodeRED](https://img.shields.io/badge/-NodeRED-8b0002?style=for-the-badge&logo=nodered&logoColor=white)](https://nodered.org/)
 [![Shell Script](https://img.shields.io/badge/-Shell_Script-181717?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
 
@@ -43,7 +39,6 @@ site oficial: [carlosalves.now.sh](https://carlosalves.now.sh/)
 [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-7E78D2?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 [![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Trello](https://img.shields.io/badge/-Trello-0065ff?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![Notion](https://img.shields.io/badge/-Notion-37352f?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/)
 [![Bowerjs](https://img.shields.io/badge/-Bower-ef5734?style=for-the-badge&logo=bower&logoColor=white)](https://bower.io/)
 [![Docker](https://img.shields.io/badge/-Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
