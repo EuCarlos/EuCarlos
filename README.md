@@ -49,6 +49,7 @@ _______
 
 
 ### 📕 Blog - Postagens recentes
+- [Bibliotecas NodeJS incríveis que você não tem ideia que existem](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
 - [Extensões ótimas para VS Code e pouco falado](https://dev.to/eucarlos/extensoes-otimas-para-vs-code-e-pouco-falado-f45)
 - [Corrigir no Docker: Got permission denied issue 🐳](https://dev.to/eucarlos/corrigir-no-docker-got-permission-denied-issue-5ba)
 - [status 22003 no banco de dados](https://dev.to/eucarlos/status-22003-no-banco-de-dados-59a2)
@@ -60,7 +61,7 @@ _______
 </p>
 
 <details>
-   <summary>📊  Estatísticas do Github && Linguagens mais usados</summary>
+   <summary><h3>📊 Estatísticas do Github & Linguagens mais usados</h3></summary>
    <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=eucarlos&count_private=true&theme=dracula&show_icons=true&locale=pt-BR" alt="EuCarlos" height="150" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&hide=css,html,javascript,scss,handlebars&langs_count=6&layout=compact&count_private=true&theme=dracula&locale=pt-BR" alt="EuCarlos" height="150"/>
