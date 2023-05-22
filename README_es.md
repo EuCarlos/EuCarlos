@@ -48,6 +48,7 @@ ___
 
 
 ### 📕 Blog - Publicaciones recientes
+- [PT-BT] [Malwares y Ciberataques: ¿cómo evitar ser víctima?](https://dev.to/eucarlos/malwares-e-ataques-ciberneticos-3mo7)
 - [PT-BR] [Increíbles bibliotecas de NodeJS que no tienes idea de que existen](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
 - [PT-BR] [Grandes extensiones para VS Code y poco comentadas](https://dev.to/eucarlos/extensoes-otimas-para-vs-code-e-pouco-falado-f45)
 - [PT-BR] [Corrección en Docker: Got permission denied issue 🐳](https://dev.to/eucarlos/corrigir-no-docker-got-permission-denied-issue-5ba)
@@ -67,5 +68,5 @@ ___
    </p>
 </details>
 
-#### VISITAS DE PERFIL
-<img src="https://visitor-badge.glitch.me/badge?page_id=eucarlos.eucarlos&right_color=red&left_text=Visitantes" alt="Contador de visitas no disponible">
+<!-- #### VISITAS DE PERFIL
+<img src="https://visitor-badge.glitch.me/badge?page_id=eucarlos.eucarlos&right_color=red&left_text=Visitantes" alt="Contador de visitas no disponible"> -->

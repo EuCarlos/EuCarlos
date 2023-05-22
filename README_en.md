@@ -48,6 +48,7 @@ ___
 
 
 ### 📕 Blog - Recent posts
+- [PT-BR] [Malware and Cyberattacks: How to Avoid Being a Victim?](https://dev.to/eucarlos/malwares-e-ataques-ciberneticos-3mo7)
 - [PT-BR] [Amazing NodeJS libraries you have No idea exist](https://dev.to/eucarlos/bibliotecas-nodejs-incriveis-que-voce-nao-tem-ideia-que-existem-3i4b)
 - [PT-BR] [Great extensions for VS Code and little talked about](https://dev.to/eucarlos/extensoes-otimas-para-vs-code-e-pouco-falado-f45)
 - [PT-BR] [Fix in Docker: Got permission denied issue 🐳](https://dev.to/eucarlos/corrigir-no-docker-got-permission-denied-issue-5ba)
@@ -66,6 +67,6 @@ ___
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucarlos&hide=css,html,javascript,scss,handlebars&langs_count=6&layout=compact&count_private=true&theme=dracula" alt="EuCarlos" height="150"/>
    </p>
 </details>
-
+<!-- 
 #### PROFILE VISITS
-<img src="https://visitor-badge.glitch.me/badge?page_id=eucarlos.eucarlos&right_color=red&left_text=Visitantors" alt="Visit counter unavailable">
+<img src="https://visitor-badge.glitch.me/badge?page_id=eucarlos.eucarlos&right_color=red&left_text=Visitantors" alt="Visit counter unavailable"> -->
